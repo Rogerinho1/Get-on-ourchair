@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", function() {
     var leftBtn = document.querySelector('div.sliderLeft');
     var rightBtn = document.querySelector('div.sliderRight');
     var imgLi = document.querySelectorAll('div.sliderImg ul li');
-
     var index = 0;
 
     imgLi[index].style.display = "initial";
@@ -25,24 +24,6 @@ document.addEventListener("DOMContentLoaded", function() {
             index = 0;
         }
         imgLi[index].style.display = "initial";
-    });
-
-
-    //UNDERLINE
-    var product1 = document.querySelector('div.product1');
-    var product2 = document.querySelector('div.product2');
-
-    product1.addEventListener('mouseover', function() {
-        product1.firstElementChild.classList.add('showTitle');
-    });
-    product1.addEventListener('mouseout', function() {
-        product1.firstElementChild.classList.remove('showTitle');
-    });
-    product2.addEventListener('mouseover', function() {
-        product2.firstElementChild.classList.add('showTitle');
-    });
-    product2.addEventListener('mouseout', function() {
-        product2.firstElementChild.classList.remove('showTitle');
     });
 
 });
