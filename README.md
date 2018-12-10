@@ -27,3 +27,11 @@ I'm planning to add RWD and the calculator this week. (10-16.12.2018)
 * footer with links to given social media
 * selectable benefit plans 
 * well-developed Chair Composition section & Calculator [<b>to be added this week</b>]
+
+## Copyrights
+
+* Graphic design - *Coders Lab* programming school
+
+## License
+
+This project is licensed under the MIT License.
