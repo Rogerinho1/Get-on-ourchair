@@ -11,4 +11,4 @@ I'm planning to add RWD and the calculator this week. (10-16.12.2018)
 
 ### Home Page
 
-![Home Page screenshot](images/screenshots/front_page.png?raw=true "Home Page")
+![Home Page screenshot](images/Screenshots/front_page.png?raw=true "Home Page")
