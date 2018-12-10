@@ -3,7 +3,7 @@ Workshop #1 - Creating a sample webpage for invented furniture store using CSS.
 
 ## Introduction
 
-The website is a training project of an invented furniture store created while the first workshop during a coding bootcamp in the Coders Lab programming school. There are still possibilites for further development of this webpage.
+The website is a training project of an invented furniture store created during the first workshop on a coding bootcamp in the Coders Lab programming school. Naturally, there are still possibilites for further development of this webpage.
 
 ## Future Updates
 
