@@ -20,3 +20,9 @@ I'm planning to add RWD and the calculator this week. (10-16.12.2018)
 ### Contact and Footer sections
 
 ![Contact and Footer sections screenshot](images/Screenshots/contact_form.png?raw=true "Contact and Footer sections")
+
+## Main Features
+
+* fully working slider
+* selectable benefit plans [<b>to be added this week</b>]
+* well-developed Chair Composition section
