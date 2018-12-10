@@ -24,5 +24,6 @@ I'm planning to add RWD and the calculator this week. (10-16.12.2018)
 ## Main Features
 
 * fully working slider
-* selectable benefit plans [<b>to be added this week</b>]
-* well-developed Chair Composition section
+* footer with links to given social media
+* selectable benefit plans 
+* well-developed Chair Composition section & Calculator [<b>to be added this week</b>]
