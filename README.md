@@ -1,4 +1,6 @@
-# GetOnOurChair
-Warsztat #1 - stworzenie strony z krzesłem
+# Sit on Chair
+Workshop #1 - Creating a sample webpage for invented furniture store using CSS.
 
-W tym repozytorium wykonamy nasz pierwszy, fantastyczny projekt o kupnach krzeseł z kozackimi obiciami za grosze.
+The website is a training project of an invented furniture store created while the first workshop during a coding bootcamp in the Coders Lab programming school. There are still possibilites for further development of this webpage.
+
+I'm planning to add RWD and the calculator this week. (10-16.12.2018)
