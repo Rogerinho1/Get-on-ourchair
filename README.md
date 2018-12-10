@@ -12,3 +12,11 @@ I'm planning to add RWD and the calculator this week. (10-16.12.2018)
 ### Home Page
 
 ![Home Page screenshot](images/Screenshots/front_page.png?raw=true "Home Page")
+
+### Price List section
+
+![Price List section screenshot](images/Screenshots/price_list.png?raw=true "Price List section")
+
+### Contact and Footer sections
+
+![Contact and Footer sections screenshot](images/Screenshots/contact_form.png?raw=true "Contact and Footer sections")
