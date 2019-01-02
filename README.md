@@ -7,7 +7,7 @@ The website is a training project of an invented furniture store created during 
 
 ## Future Updates
 
-I'm planning to add RWD and the calculator this week. (10-16.12.2018)
+I'm planning to add RWD and the calculator this week. (03.01.-10.01.2019)
 
 ### Home Page
 
